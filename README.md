@@ -2,7 +2,7 @@
 
 Open Hackathon Platform server v5 based on [Strapi][6]
 
-[![Deploy to Production environment](https://github.com/kaiyuanshe/OpenHackathon-server/actions/workflows/deploy-production.yml/badge.svg)][1]
+[![Deploy to Production environment](https://github.com/FreeCodeCamp-Chengdu/HOP-server/actions/workflows/deploy-production.yml/badge.svg)][1]
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)][2]
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)][3]
@@ -100,9 +100,9 @@ Feel free to check out the [Strapi GitHub repository][27]. Your feedback and con
 
 🤫 Psst! [Strapi is hiring][31].
 
-[1]: https://github.com/kaiyuanshe/OpenHackathon-server/actions/workflows/deploy-production.yml
-[2]: https://codespaces.new/kaiyuanshe/OpenHackathon-server
-[3]: https://gitpod.io/?autostart=true#https://github.com/kaiyuanshe/OpenHackathon-server
+[1]: https://github.com/FreeCodeCamp-Chengdu/HOP-server/actions/workflows/deploy-production.yml
+[2]: https://codespaces.new/FreeCodeCamp-Chengdu/HOP-server
+[3]: https://gitpod.io/?autostart=true#https://github.com/FreeCodeCamp-Chengdu/HOP-server
 [4]: https://www.typescriptlang.org/
 [5]: https://pnpm.io/
 [6]: https://strapi.io/

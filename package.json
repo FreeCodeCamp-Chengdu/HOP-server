@@ -44,7 +44,7 @@
   },
   "scripts": {
     "prepare": "husky  ||  true",
-    "install": "get-git-folder https://github.com/kaiyuanshe/service-configuration main OpenHackathon-server  ||  true",
+    "install": "get-git-folder https://github.com/FreeCodeCamp-Chengdu/service-configuration main HOP-server  ||  true",
     "test": "lint-staged",
     "strapi": "strapi",
     "clean": "rm -rf .cache/ .strapi/ dist/",
